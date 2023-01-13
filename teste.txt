@@ -1,1 +1,11 @@
-Teste 1, esta funcionando?
+comandos GIT e instrucoes
+
+1 - clicar com o direito do mouse na pasta parte branca e abrir o git bash
+
+2 - git status(para saber se tem alguma modificacao a ser adicionada)
+
+3 - git add -A ou git add . (adiciona todos os arquivos alterados)
+
+4 - git commit -m "nome da alteracao/atualizacao" exemplo: adicionado curso de figma
+
+5 - git push (enviar commit para o GIT HUB nuvem)
